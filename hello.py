@@ -1,13 +1,9 @@
 
 
-# def hello_world():
-#    print('Hello World!')
+def hello_world():
+    print('Hello World!')
     
-# hello_world()
-
-
-Print_Output_Message = 'Hello, World!'
-print(Print_Output_Message)
+hello_world()
 
 
 
